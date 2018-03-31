@@ -1,0 +1,1 @@
+A program which accept file name from user and open that file.
