@@ -1,1 +1,1 @@
-A program which accept file name from user and open that file.
+A program which accept file name and mode from user and open that file.
