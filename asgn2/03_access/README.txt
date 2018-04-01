@@ -1,0 +1,1 @@
+A program which accept file name from user and checks weather our process has access permission for that file or not.
