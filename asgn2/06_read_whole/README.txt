@@ -1,0 +1,1 @@
+ a program which accept file name from user and read whole file
